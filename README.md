@@ -36,6 +36,12 @@
 
 ## 🧑‍💻 Sobre mim
 
+<div align="center">
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" width="160" align="right" alt="Professortocat GitHub Mascot"/>
+
+</div>
+
 ```python
 marco = {
     "nome":       "Marco Antonio da Silva Melo",
@@ -62,6 +68,16 @@ marco = {
 </div>
 
 > 💡 *Atualmente no Bootcamp GenAI & Dados (52h) — explorando IA generativa, embeddings e pipelines de dados.*
+
+---
+
+## 💻 Coding Mode: ON
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding gif" />
+
+</div>
 
 ---
 
@@ -168,15 +184,11 @@ Novos projetos com **GenAI**, **ML** e **visualização de dados** a caminho!
 
 ---
 
-## 🐍 Contribuições
+## 📈 Gráfico de Atividade
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake.svg"/>
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Markin11-Dev&theme=tokyo-night&hide_border=true&area=true&area_color=2E86C1&color=2E86C1&line=1A5276&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -232,3 +244,4 @@ Se você tem uma oportunidade de estágio ou quer trocar ideia sobre dados e IA,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=footer" width="100%"/>
 
 </div>
+
