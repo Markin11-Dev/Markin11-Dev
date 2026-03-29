@@ -1,95 +1,234 @@
-<h1 align="center">👋 Olá, eu sou o Marco Antonio</h1>
+<div align="center">
 
-<p align="center">
-  📊 Focado em Dados, IA e Backend <br>
-  🚀 Em constante evolução
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=200&section=header&text=Marco%20Antonio&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%7C%20IA%20%26%20Dados&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 🧠 Sobre mim
+<div align="center">
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marco+Antonio+%F0%9F%91%8B;Estudante+de+ADS+%7C+FAM+S%C3%A3o+Paulo;Apaixonado+por+Python%2C+IA+e+Dados;Buscando+est%C3%A1gio+em+Dados+%2F+Sistemas)](https://git.io/typing-svg)
 
-- Inteligência Artificial 🤖
-- Engenharia de Dados 📊
-- Desenvolvimento Backend ⚙️
-- Aplicações Web modernas 🌐
+</div>
 
-🎯 Atualmente estudando e desenvolvendo projetos com:
-- Machine Learning
-- LLMs (Modelos de Linguagem)
-- APIs inteligentes
-- Sistemas de recomendação
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoantonio2silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Markin11-Dev)
+![Visitors](https://komarev.com/ghpvc/?username=Markin11-Dev&style=for-the-badge&color=1A5276&label=VISITAS)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
 
-### 💻 Linguagens
+### 🟢 Aberto para Oportunidades de Estágio!
+
+[![Contrate-me](https://img.shields.io/badge/💼_Estágio_em_Dados_/_ADS-Disponível-2ecc71?style=for-the-badge)](mailto:marcoantonio2silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Veja_meu_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+> 🚀 Disponível para estágio em **Análise de Dados**, **Desenvolvimento de Sistemas** ou **IA/ML**. Me chama!
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+```python
+marco = {
+    "nome":       "Marco Antonio da Silva Melo",
+    "localidade": "São Paulo – SP 🇧🇷",
+    "formação":   "Tecnólogo em ADS – FAM (2025–2026)",
+    "foco":       ["Python", "IA Generativa", "Análise de Dados"],
+    "buscando":   "Estágio em Dados / Desenvolvimento de Sistemas",
+    "idiomas":    ["Português (nativo)", "Inglês (técnico)"],
+    "fun_fact":   "Transformo dados em decisões 📊"
+}
+```
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+<div align="center">
+
+![GenAI](https://img.shields.io/badge/GenAI_&_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![APIs](https://img.shields.io/badge/Integração_com_APIs-0052CC?style=for-the-badge&logo=fastapi&logoColor=white)
+![Estatística](https://img.shields.io/badge/Estatística_para_Dados-2ECC71?style=for-the-badge&logo=r&logoColor=white)
+
+</div>
+
+> 💡 *Atualmente no Bootcamp GenAI & Dados (52h) — explorando IA generativa, embeddings e pipelines de dados.*
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Assistente de Investimentos com IA
+Aplicação com IA generativa para análise de perfil de investidor e recomendações personalizadas.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM_API-412991?style=flat&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📈 Análise de Transações Financeiras
+Pipeline de análise de dados para identificar padrões de consumo e gerar insights financeiros.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕐 Sistema de Controle de Ponto
+Sistema de registro e controle de horas com integração a banco de dados MySQL.
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔮 Em breve...
+Novos projetos com **GenAI**, **ML** e **visualização de dados** a caminho!
+
+![WIP](https://img.shields.io/badge/Status-Em_desenvolvimento-orange?style=flat)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack de Tecnologias
+
+<div align="center">
+
+**Linguagens & Banco de Dados**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Ferramentas & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+**IA & Machine Learning**
 
-### 📊 Dados & IA
-- Machine Learning
-- Deep Learning
-- LLMs
-- ETL
-- Análise de Dados
+![TensorFlow](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
+**Ferramentas & Ambiente**
 
-## 📂 Projetos em destaque
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🚧 Em construção...
-
-👉 Alguns exemplos do que você vai encontrar aqui:
-- 📊 Dashboards interativos
-- 🤖 Aplicações com IA
-- 💬 Chatbots estilo ChatGPT
-- 📈 Análises de dados com Python
-- 🔗 APIs inteligentes
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Markin11-Dev&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markin11-Dev&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Markin11-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markin11-Dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=2E86C1"/>
 
-## 🏆 Conquistas
+</div>
 
-- 🎓 Bootcamp em IA & Dados (DIO + Bradesco)
-- 🧠 Projetos com Machine Learning
-- 💡 Desenvolvimento de aplicações com IA
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Markin11-Dev&theme=tokyonight&hide_border=true&ring=2E86C1&fire=E74C3C&currStreakLabel=2E86C1)](https://git.io/streak-stats)
 
-## 📫 Contato
-
-📩 Email: marcoantonio2silva@gmail.com
-💼 LinkedIn: www.linkedin.com/in/marco-antonio-da-silva-melo-aa01a4248
-🌐 Portfólio: em breve...
+</div>
 
 ---
 
-## ⚡ Curiosidade
+## 🏆 Troféus GitHub
 
-💡 Transformando dados em decisões e código em soluções reais.
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Markin11-Dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<p align="center">
-  🚀 "Sempre aprendendo, sempre evoluindo."
-</p>
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Markin11-Dev/Markin11-Dev/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💬 Quote do Dia
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O+sucesso+é+a+soma+de+pequenos+esforços+repetidos+dia+após+dia.&author=Robert+Collier)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 📚 Formação & Certificados
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FAM, SP *(2025 – 2026)*
+
+| 📋 Curso | ⏱️ Carga | 📅 Ano |
+|---|:---:|:---:|
+| 🤖 Bootcamp GenAI & Dados | 52h | 2026 |
+| 🗄️ Introdução a Banco de Dados | 3h | 2026 |
+| 🌐 HTML, CSS e JavaScript | 2h | 2025 |
+| 💻 Informática Aplicada | 100h | 2022 |
+| ⚙️ Arduino e Automação | 20h | 2019 |
+
+---
+
+## 💡 Competências
+
+<div align="center">
+
+![Aprendizado](https://img.shields.io/badge/✔_Facilidade_de_Aprendizado-1A5276?style=flat-square)
+![Proatividade](https://img.shields.io/badge/✔_Proatividade-1A5276?style=flat-square)
+![Organização](https://img.shields.io/badge/✔_Organização-1A5276?style=flat-square)
+![Equipe](https://img.shields.io/badge/✔_Trabalho_em_Equipe-1A5276?style=flat-square)
+![Comunicação](https://img.shields.io/badge/✔_Boa_Comunicação-1A5276?style=flat-square)
+![Inglês](https://img.shields.io/badge/✔_Inglês_Técnico-1A5276?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Vamos nos conectar?
+
+Se você tem uma oportunidade de estágio ou quer trocar ideia sobre dados e IA, me manda uma mensagem!
+
+[![Gmail](https://img.shields.io/badge/marcoantonio2silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoantonio2silva@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5276&height=120&section=footer" width="100%"/>
+
+</div>
