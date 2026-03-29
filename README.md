@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marco+Antonio+%F0%9F%91%8B;Estudante+de+ADS+%7C+FAM+S%C3%A3o+Paulo;Apaixonado+por+Python%2C+IA+e+Dados;Buscando+est%C3%A1gio+em+Dados+%2F+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marco+Antonio+%F0%9F%91%8B;Estudante+de+ADS+%7C+FAM+S%C3%A3o+Paulo;Python%2C+IA+e+Dados;Buscando+est%C3%A1gio+em+Dados+%2F+Sistemas)](https://git.io/typing-svg)
 
 </div>
 
